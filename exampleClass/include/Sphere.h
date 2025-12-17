@@ -43,8 +43,3 @@ class Sphere
     double surfaceArea;
     double volume;
 };
-
-int main()
-{
-    Sphere *s = new Sphere(5);
-}
