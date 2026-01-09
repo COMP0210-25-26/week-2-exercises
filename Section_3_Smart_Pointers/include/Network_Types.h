@@ -17,7 +17,7 @@ class Hub;
 class Node
 {
     public:
-    Node(const std::string &n);
+    Node();
 
     ~Node();
 
