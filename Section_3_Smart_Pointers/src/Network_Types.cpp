@@ -5,7 +5,7 @@
 
 using std::cout, std::endl;
 
-Node::Node(const std::string &n) : id(next_id++) {}
+Node::Node() : id(next_id++) {}
 
 Node::~Node()
 {
